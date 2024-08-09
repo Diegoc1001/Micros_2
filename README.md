@@ -2,4 +2,4 @@
 - el adc es de 10 bits
 - es de aproximaciones sucesivas
 
-![](https://mexico.newark.com/productimages/standard/en_GB/2356913-40.jpg)
+![](https://media.hackerearth.com/blog/wp-content/uploads/2017/02/Blog-Featured-Image.png)
